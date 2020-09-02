@@ -1,2 +1,2 @@
 # devops-aula04
-mudando o conflito
+resolvendo o conflito
