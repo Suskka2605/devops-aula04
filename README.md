@@ -1,2 +1,2 @@
 # devops-aula04
-mudança do master
+resolvendo o conflito
